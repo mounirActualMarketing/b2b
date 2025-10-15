@@ -1100,28 +1100,7 @@ export default function Home() {
               <p className="text-gray-400 text-sm">
                 Empowering Saudi professionals and businesses with world-class English training.
               </p>
-            </div>
-
-                  <div>
-              <h3 className="font-semibold mb-4">Solutions</h3>
-              <ul className="space-y-2 text-gray-400 text-sm">
-                <li><a href="#" className="hover:text-secondary transition-colors">Corporate Training</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Executive Programs</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Online Learning</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Assessment Services</a></li>
-              </ul>
-                </div>
-
-            <div>
-              <h3 className="font-semibold mb-4">Company</h3>
-              <ul className="space-y-2 text-gray-400 text-sm">
-                <li><a href="#" className="hover:text-secondary transition-colors">About Us</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Our Centers</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Success Stories</a></li>
-                <li><a href="#" className="hover:text-secondary transition-colors">Careers</a></li>
-              </ul>
-                </div>
-            
+            </div>           
             <div>
               <h3 className="font-semibold mb-4">Contact</h3>
               <div className="space-y-2 text-gray-400 text-sm">
